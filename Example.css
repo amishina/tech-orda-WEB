@@ -1,0 +1,83 @@
+.navbar {
+    background-color: darkblue;
+    color: white;
+    padding: 10px;
+}
+
+.navbar h3 {
+    display:inline;
+}
+
+.navbar h6 {
+    display:inline;
+}
+
+#navbar-right-fields {
+    float:right;
+}
+
+.leftbar {
+    display: inline;
+}
+
+#signup-button {
+    background-color: darkgreen;
+    color:white
+}
+
+.leftbar a{
+    color: darkblue;
+    text-decoration: none;
+}
+
+.content {
+    display: inline;
+
+}
+
+.content h3 {
+    color: darkblue;
+    margin: 0px;
+}
+
+.content img {
+    width: 250px;
+}
+
+.content p {
+    width: 250px;
+}
+
+.content a {
+    font-weight: bolder;
+    color: black;
+    text-decoration: none;
+}
+
+.rightbar {
+    display: inline;
+}
+
+.table-header {
+    background-color: black;
+    color:white;
+}
+
+.champion {
+    background-color: darkgreen;
+    color: white;
+}
+
+.top-three {
+    background-color: lightgreen;
+    color: black;
+}
+
+.last-three {
+    background-color: lightpink;
+    color: black;
+}
+
+.chappion td {
+    padding: 5px;
+}

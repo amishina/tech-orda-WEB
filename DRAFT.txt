@@ -1,0 +1,26 @@
+.main{
+    background-color: lightgray;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    
+}
+.box1{
+    width: 300px;
+    min-height: 400%;
+    background-color: red;
+
+}
+.box2{
+    width: 200px;
+    min-height: 300%;
+    background-color: yellow;
+
+}
+.box3{
+    width: 250px;
+    min-height: 450%;
+    background-color: green;
+
+}

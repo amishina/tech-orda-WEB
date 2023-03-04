@@ -1,0 +1,54 @@
+.body{
+    margin: 0px;
+}
+.content {
+    margin:0px;
+    font-family: Arial;
+}
+.navbar{
+    background-color: darkblue;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    border: 1px solid red;
+    width: 40%;
+    color: white;'
+    text-decoration: none;
+    font-weight: bold;
+}
+.logo a{
+    color: white;
+    text-decoration: none;
+    font-size: 24px;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    
+}
+.menu a{
+
+    color:white;
+    text-decoration: none;
+    font-size: 14px;
+}
+.menu a:hover{
+    color:lightgray
+}
+.news{
+    display:  flex;
+}
+.login{
+    width:20%;
+}
+.feed{
+    width:50%;
+}
+.liveTable{
+    width:30%;
+    background-color: yellow;
+    min-height: 800px;
+}

@@ -1,0 +1,104 @@
+body {
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.navbar {
+	display: flex;
+	justify-content: space-between;
+	background-color: darkblue;
+	color: white;
+}
+
+.navbar h4 {
+	margin: 0px;
+	padding-left: 10px;
+}
+
+.navbar a {
+	margin: 0px;
+	color: white;
+	padding-right: 10px;
+}
+
+.main {
+	display: flex;
+}
+
+.leftbar {
+	width: 25%;
+}
+
+.leftbar img {
+	margin-top: 10px;
+	width: 100%;
+}
+
+.user-data {
+	display: flex;
+}
+
+.user-data h5 {
+	margin: 0px;
+}
+
+.user-data a {
+	padding-left: 5px;
+	text-decoration: none;
+}
+
+.user-description p {
+	margin: 0px;
+}
+
+.menu {
+
+}
+
+.menu a {
+	display: block;
+	border: solid 1px;
+	text-decoration: none;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.content {
+	margin-top: 10px;
+	width: 50%;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.content img {
+	width: 100%;
+	border-radius: 5px;
+}
+
+.content h4 {
+	margin: 0px;
+}
+
+#view-more-button {
+	background-color: blue;
+	color: white;
+}
+
+.rightbar {
+	margin-top: 10px;
+	width: 25%;
+}
+
+.other-information {
+	border: solid 1px;
+}
+
+.other-information h4, h5, h6 {
+	margin: 0px;
+}
+
+.other-information div {
+	display: flex;
+	justify-content: space-arround;
+}
